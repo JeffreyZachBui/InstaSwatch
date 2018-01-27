@@ -1,0 +1,22 @@
+{
+  "name": "InstaSwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-api": "^1.0.3",
+    "instagram-node": "^0.5.8",
+    "mongoose": "^5.0.0-rc0",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}
